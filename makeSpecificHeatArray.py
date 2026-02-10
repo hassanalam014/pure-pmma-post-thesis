@@ -1,4 +1,3 @@
-# Author: Hassan Alam (Modified Kier's Code)
 # Date: April 2019
 #
 # Description: The purpose of this file is to make Excel PVT data files, in CSV format, based on SL-EOS.

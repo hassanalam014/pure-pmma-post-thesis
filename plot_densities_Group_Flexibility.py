@@ -1,4 +1,3 @@
-# Author: Kier von Konigslow
 # Date: April 2017
 #
 # Description: The purpose of this file is to plot Polystyrene (PS) density information based on experiment and theory for comparison.

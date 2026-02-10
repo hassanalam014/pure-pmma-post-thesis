@@ -1,4 +1,3 @@
-# Author: Hassan Alam
 # Date: 2019
 #
 # Description: The purpose of this file is to plot Polystyrene (PS) Thermodynamics Properties
